@@ -1,7 +1,9 @@
 # NowherePlanner2Calendar
 Hello Nobodies!
-This is tool to convert the whatwherewhen.guide planner to ICS file to be imported to Google Calendar (or similar).
-Based on the What Where When guide website (not my work! Awesome job!!!)
+This is a tool to convert the whatwherewhen.guide planner to ICS file to be imported to Google Calendar (or similar).
+Follow the easy steps below.
+Based on the [What Where When guide website](https://whatwherewhen.guide) (not my work! Awesome job!!!)
+
 
 # How to use
 1. Add events to the planner here: https://whatwherewhen.guide/Directory
@@ -10,12 +12,16 @@ Based on the What Where When guide website (not my work! Awesome job!!!)
 3. Press F12 to open the developer console
 ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/fec289a9-db7e-48a5-8857-eaba2cc5d02b)
 
-4. Copy & Paste the code from this page, and click enter to download Nowhere.ics
-5. Go to [Google Calendar](https://calendar.google.com/calendar/u/0/r) or your favorite app
+4. Copy & Paste the code from [this page](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/blob/main/bundle.js)
+![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/e8cdd411-0087-4b07-a4ac-4c7d1e506a99)
+
+5. Go to the developer console in the planner tab and click enter to download Nowhere.ics
 ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/3f7a7b4c-98da-4e09-be71-8c35282f9d23)
 
-6. Press the "+" next to "Other Calendars" in the sidebar and click import ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/581418cd-6660-48a9-90e2-9e732403c93a)
-7. Select the desired calendar, upload the file and click "Import"
+6. Go to [Google Calendar](https://calendar.google.com/calendar/u/0/r) or your favorite app
+
+7. Press the "+" next to "Other Calendars" in the sidebar and click import ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/581418cd-6660-48a9-90e2-9e732403c93a)
+8. Select the desired calendar, upload the file and click "Import"
 ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/96902422-d6c9-4ed3-9a58-34a3040e77ca)
 
 ## Sample Result
