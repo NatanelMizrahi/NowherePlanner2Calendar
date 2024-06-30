@@ -1,5 +1,5 @@
 # NowherePlanner2Calendar
-Hello Nobodies!
+🦄 Hello Nobodies! 🦄
 
 This is a tool to convert the whatwherewhen.guide planner to ICS file to be imported to Google Calendar (or similar).
 
