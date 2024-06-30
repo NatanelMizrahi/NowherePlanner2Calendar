@@ -18,6 +18,8 @@ Based on the What Where When guide website (not my work! Awesome job!!!)
 7. Select the desired calendar, upload the file and click "Import"
 ![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/96902422-d6c9-4ed3-9a58-34a3040e77ca)
 
+## Sample Result
+![image](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/28490be6-c2db-45d5-ae68-1c0a960d1103)
 
 ## Geeky Stuff
 Used https://browserify.org/ to convert this node.js script to a browser-supported script.
