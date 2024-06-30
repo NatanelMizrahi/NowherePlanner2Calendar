@@ -3,22 +3,27 @@
 
 This is a tool to convert the whatwherewhen.guide planner to ICS file to be imported to Google Calendar (or similar).
 
+
 Follow the easy steps below.
 
 Based on the [What Where When guide website](https://whatwherewhen.guide) (not my work! Awesome job!!!)
 
+## What is it good for?
+* **Saves paper:** Carry all the info on your mobile, rather than using a paper guide
+* **Available offline:** once synced to your phone, the calendar with all the details is accecible offline
+* **Customizable:** you can add colors to events, rename, add notes, etc. 
 
 ## How to use
 1. Add events to the planner here: https://whatwherewhen.guide/Directory
 
-2. Copy the code from [this page](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/blob/main/bundle.js) via the copy buttom
+2. Copy the code from [this page](https://github.com/NatanelMizrahi/NowherePlanner2Calendar/blob/main/bundle.js) via the copy button
 <img src="https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/e8cdd411-0087-4b07-a4ac-4c7d1e506a99" width="200" />
 
 3. Go to the planner tab in https://whatwherewhen.guide/planner
 <img src="https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/613dbb08-471f-4617-928b-64e5d3085c96" width="250" />
 
 4. Press F12 in the planner tab to open the developer console.
-5. paste the code and click enter to download **Nowhere.ics**
+5. paste the code and press ENTER to download **Nowhere.ics**
 <img src="https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/3f7a7b4c-98da-4e09-be71-8c35282f9d23" width="250" />
 
 6. Go to [Google Calendar](https://calendar.google.com/calendar/u/0/r) or your favorite app
