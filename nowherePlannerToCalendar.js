@@ -72,7 +72,7 @@ function saveToIcsAndDownload(calendar) {
 	document.body.removeChild(link);
 }
 
-const endDateLimit = new Date('2024-07-09');
+const endDateLimit = new Date('2025-07-07');
 
 const data = {
 	events: JSON.parse(localStorage.eventDirectory),
@@ -80,7 +80,7 @@ const data = {
 };
 
 const userEvents = getUserEvents(data.events, data.savedEvents);
-const calendar = ical({ name: 'Nowhere 2024' });
+const calendar = ical({ name: 'Nowhere 2025' });
 
 AddEventsToCalendar(userEvents)
 saveToIcsAndDownload(calendar);
