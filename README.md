@@ -22,7 +22,11 @@ Based on the [What Where When guide website](https://whatwherewhen.guide) (not m
 3. Go to the planner tab in https://whatwherewhen.guide/planner
 <img src="https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/613dbb08-471f-4617-928b-64e5d3085c96" width="250" />
 
-4. Press F12 in the planner tab to open the developer console.
+4. Press F12 while in the planner tab to open the developer console in the `console` tab.
+
+   **Note**: You may get a warning in the console upon pasting, in which case type `allow pasting` and press enter
+
+
 5. paste the code and press ENTER to download **Nowhere.ics**
 <img src="https://github.com/NatanelMizrahi/NowherePlanner2Calendar/assets/20489303/3f7a7b4c-98da-4e09-be71-8c35282f9d23" width="250" />
 
